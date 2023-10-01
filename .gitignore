@@ -20,7 +20,9 @@ visualstudio/.vs
 *.pdb
 *.ilk
 *.ERR
-bin/SampleBot_d.exe
+.vs/
+bin/
+bin/BotModule_d.exe
 bin/SampleBot_d.pdb
 bin/ReplayData.txt
 bin/ReplayParser.exe
