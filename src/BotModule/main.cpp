@@ -9,7 +9,6 @@
 void PlayGame();
 void ParseReplay();
 
-//TODO: BWAPI.lib is missing -> find cause
 int main(int argc, char* argv[])
 {
     size_t gameCount = 0;
